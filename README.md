@@ -33,7 +33,7 @@ This is the only method I am aware of to use custom skins at the moment
 1. Install [fabric loader](https://fabricmc.net/)
 2. Install [CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader)
 3. Adjust your CustomSkinLoader.json in `.minecraft\CustomSkinLoader`\
-4. Place all skins in this directory `.minecraft\CustomSkinLoader\LocalSkin\skins`
+4. Place all skins in [this directory](https://github.com/Wooferscoots/More-Mob-Heads-Faithful32/tree/master/skins) `.minecraft\CustomSkinLoader\LocalSkin\skins`
 5. Adjust your CustomSkinLoader.json settings see [example](https://github.com/Wooferscoots/More-Mob-Heads-Faithful32/blob/master/CustomSkinLoader.json)
 
 <!-- CONTRIBUTING -->
