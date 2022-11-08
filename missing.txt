@@ -1,0 +1,114 @@
+Tuxedo Cat
+Ginger Cat
+Siamese Cat
+British Shorthair Cat
+Calico Cat
+Persian Cat
+Ragdoll Cat
+White Cat
+Jellie Cat
+Black Cat
+
+Cod
+
+Donkey
+
+Cold Frog
+Temperate Frog
+Warm Frog
+
+Glow Squid
+
+White Horse
+Creamy Horse
+Chestnut Horse
+Brown Horse
+Black Horse
+Gray Horse
+Dark Brown Horse
+
+Creamy Llama
+White Llama
+Brown Llama
+Gray Llama
+
+Mule
+
+Ocelot
+
+Aggressive Panda
+Lazy Panda
+Playful Panda
+Worried Panda
+Brown Panda
+Weak Panda
+Panda
+
+Red Parrot
+Blue Parrot
+Green Parrot
+Light Blue Parrot
+Gray Parrot
+
+Pufferfish
+
+Toast
+Brown Rabbit
+White Rabbit
+Black Rabbit
+Black and White Rabbit
+Gold Rabbit
+Salt and Pepper Rabbit
+The Killer Bunny
+
+Salmon
+
+Skeleton Horse
+
+Tadpole
+
+Creamy Trader Llama
+White Trader Llama
+Brown Trader Llama
+Gray Trader Llama
+
+Tropical Fish
+
+Armorer Villager
+Butcher Villager
+Cartographer Villager
+Cleric Villager
+Farmer Villager
+Fisherman Villager
+Fletcher Villager
+Leatherworker Villager
+Librarian Villager
+Mason Villager
+Nitwit Villager
+Unemployed Villager
+Shepherd Villager
+Toolsmith Villager
+Weaponsmith Villager
+
+Wandering Trader
+
+Warden
+
+Wolf
+Angry Wolf
+
+Zombie Horse
+
+Zombie Armorer
+Zombie Butcher
+Zombie Cartographer
+Zombie Cleric
+Zombie Farmer
+Zombie Fisherman
+Zombie Leatherworker
+Zombie Librarian
+Zombie Mason
+Zombie Villager
+Zombie Shepherd
+Zombie Toolsmith
+Zombie Weaponsmith
