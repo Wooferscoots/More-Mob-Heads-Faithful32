@@ -72,9 +72,6 @@ Gray Trader Llama
 
 Tropical Fish
 
-Armorer Villager
-Butcher Villager
-Cartographer Villager
 Cleric Villager
 Farmer Villager
 Fisherman Villager
@@ -97,9 +94,6 @@ Angry Wolf
 
 Zombie Horse
 
-Zombie Armorer
-Zombie Butcher
-Zombie Cartographer
 Zombie Cleric
 Zombie Farmer
 Zombie Fisherman
