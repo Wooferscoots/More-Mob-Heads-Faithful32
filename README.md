@@ -8,7 +8,7 @@
 <h3 align="center">Faithful-32x More Mob Heads</h3>
 
   <p align="center">
-    Vanilla Tweaks datapack mob head textures upscaled to 16x16
+    Vanilla Tweaks datapack mob head textures upscaled to 32x32
     <br />
     <a href="https://github.com/Faithful-Resource-Pack">Faithful Repo</a>
     ·
